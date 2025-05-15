@@ -1,0 +1,8 @@
+Flask
+scikit-learn
+pandas
+beautifulsoup4
+requests
+selenium
+whois
+catboost
